@@ -3,6 +3,8 @@ plugins {
 	id 'application'
 }
 
+mainClassName = 'csci2020u.lab02.SimpleTest'
+
 repositories {
 	mavenCentral()
 }

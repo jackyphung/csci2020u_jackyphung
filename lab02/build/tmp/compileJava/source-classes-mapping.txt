@@ -1,2 +1,4 @@
+csvdemo/CSVDemo.java
+ csvdemo.CSVDemo
 csci2020u/lab02/SimpleTest.java
- SimpleTest
+ csci2020u.lab02.SimpleTest
