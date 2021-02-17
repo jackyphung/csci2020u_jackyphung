@@ -1,0 +1,7 @@
+*.class
+*.jar
+build/
+gradle/
+gradlew/
+gradlew.bat
+proguard6.2.2/
