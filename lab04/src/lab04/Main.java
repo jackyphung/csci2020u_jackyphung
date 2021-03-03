@@ -1,6 +1,5 @@
 package lab04;
 
-import javafx.animation.Timeline;
 import javafx.application.Application;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
@@ -55,7 +54,7 @@ public class Main extends Application {
         grid.add(button, 0, 7);
         grid.setHgap(10);
         grid.setVgap(10);
-        Timeline timeline = new Timeline()
+
         button.setOnAction(new EventHandler<ActionEvent>() {
             @Override
             public void handle(ActionEvent actionEvent) {
