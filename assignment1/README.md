@@ -20,5 +20,18 @@ The resources folder contains the test folder that you can select and run the pr
 
 ![java_2021-03-08_22-51-49_OGTwkZX1r6](https://user-images.githubusercontent.com/37226310/110416002-f032aa00-8060-11eb-92a2-3c6d7f5f8d58.png)
 
+References:
+
+https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/nio/file/Files.html
+
+https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html
+
+https://docs.oracle.com/javase/8/docs/api/java/util/TreeMap.html
+
+http://tutorials.jenkov.com/javafx/index.html
+
+
+
+
 
 
