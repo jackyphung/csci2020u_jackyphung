@@ -1,5 +1,7 @@
 Assignment 1 Solution
 
+Author: Jacky Phung
+
 Spam Detector
 
 This project main purpose is to create a Machine Learning model to generate a spam filter and detect the probability of the email if it is a spam or not.
