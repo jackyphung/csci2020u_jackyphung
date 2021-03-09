@@ -8,8 +8,11 @@ Data was given to process, train and test the model.
 ![java_2021-03-08_22-27-23_wWAMbllhbr](https://user-images.githubusercontent.com/37226310/110415494-fd02ce00-805f-11eb-9076-ea1b75fe3e5c.png)
 
 Recommended IDE to run this project is using IntelliJ.
+
 Upon running this program you will be prompted to ask for a directory. 
+
 The prompt will default at the projects location and there you will find a resources folder.
+
 The resources folder contains the test folder that you can select and run the program on to display the result in the screenshot given.
 
 
