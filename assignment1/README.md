@@ -2,7 +2,7 @@ Assignment 1 Solution
 
 Spam Detector
 
-This project is main purpose is to create a Machine Learning model to generate a spam filter and detect the probability of the email if it is a spam or not.
+This project main purpose is to create a Machine Learning model to generate a spam filter and detect the probability of the email if it is a spam or not.
 Data was given to process, train and test the model.
 
 ![java_2021-03-08_22-27-23_wWAMbllhbr](https://user-images.githubusercontent.com/37226310/110415494-fd02ce00-805f-11eb-9076-ea1b75fe3e5c.png)
