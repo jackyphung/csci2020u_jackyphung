@@ -36,7 +36,7 @@ public class Controller {
     @FXML
     private void initialize() {
         GraphicsContext gc = canvas.getGraphicsContext2D();
-        double maxVal = Double.NEGATIVE_INFINITY;
+        double maxVal = 0.0;
         //retrieves the max value of the array to determine the scaling of the bar chart
         for(double val: avgCommercialPricesByYear) {
             if(val > maxVal){
