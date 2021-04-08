@@ -7,7 +7,7 @@ public class UpdateTextArea {
     public static String messages = "";
 
     public UpdateTextArea(TextArea text){
-        UpdateTextArea.text = text;
+        this.text = text;
     }
 
     public static void updateText(String message){
